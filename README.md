@@ -1,4 +1,4 @@
-# Jipai server in NodeJS
+# Jipai server in Node.js
 
 这是基于 Pili Streaming Cloud 实现的一个轻量级业务后台, 配合 [Jipai App](https://github.com/jipaiapp/jipai-app-ios) 使用。
 
@@ -48,4 +48,4 @@ $ node app.js
 
 ## 贡献
 
-- [0dayZh](http://github.com/0dayZh) Node.js 的服务端实现
+- [0dayZh](http://github.com/0dayZh): Node.js 的服务端实现
