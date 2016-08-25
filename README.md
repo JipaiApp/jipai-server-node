@@ -48,7 +48,7 @@ $ node app.js
 
 ## 贡献
 
-- [0dayZh](http://github.com/0dayZh): Node.js 的服务端实现
+- [0dayZh](http://github.com/0dayZh): Node.js 的服务端实现; 撰写文档; 绘制文档配图
 
 ## License
 
