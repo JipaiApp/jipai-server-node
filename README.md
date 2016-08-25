@@ -45,3 +45,7 @@ $ node app.js
 ```
 
 现在你在本地就运行了一个可以快速提供直播服务的 server.
+
+## 贡献
+
+- [0dayZh](http://github.com/0dayZh) Node.js 的服务端实现
