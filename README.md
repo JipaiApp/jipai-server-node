@@ -49,3 +49,8 @@ $ node app.js
 ## 贡献
 
 - [0dayZh](http://github.com/0dayZh): Node.js 的服务端实现
+
+## License
+
+- 源码基于 [MIT License](https://opensource.org/licenses/MIT) 开源
+- 所有文档及资源（图片）基于 [CC-BY-DN](https://creativecommons.org/licenses/by-nd/2.0/) 开放授权
