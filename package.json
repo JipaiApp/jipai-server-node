@@ -1,0 +1,25 @@
+{
+  "name": "jipai-server-node",
+  "version": "1.0.0",
+  "description": "Jipai server in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0dayZh/jipai-server-node.git"
+  },
+  "author": "0dayZh <0day.zh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.0.0",
+    "koa-better-ratelimit": "^2.1.2",
+    "koa-bodyparser": "^2.0.1",
+    "koa-logger": "^1.3.0",
+    "koa-mount": "^1.3.0",
+    "koa-router": "^5.1.2",
+    "pili": "^1.5.5",
+    "thunkify": "^2.1.2"
+  }
+}
